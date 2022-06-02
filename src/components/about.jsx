@@ -18,7 +18,19 @@ function About() {
               Bootcamp Final Project - Show Stars!
             </p>
             <p>
-              Placeholder
+            https://show-selector.herokuapp.com/
+            </p>
+            <p>
+              Bootcamp Second Project - Quest Board!
+            </p>
+            <p>
+            https://morning-dawn-99645.herokuapp.com/
+            </p>
+            <p>
+              Bootcamp First Project - Calorie Counter!
+            </p>
+            <p>
+            https://mickieburch.github.io/Calorie-counter/
             </p>
           </div>
         </div>

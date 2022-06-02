@@ -20,6 +20,12 @@ function Contact() {
             <p>
               My phone number is (913)-209-5834!
             </p>
+            <p>
+              My Github! https://github.com/DerekRin
+            </p>
+            <p>
+              My Linkdin! https://www.linkedin.com/in/derek-rincones-90b2a5228/
+            </p>
           </div>
         </div>
       </div>
