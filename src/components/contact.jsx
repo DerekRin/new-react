@@ -1,4 +1,5 @@
 import React from "react";
+import phone from '../assets/Phone_icon.png'
 
 function Contact() {
   return (
@@ -8,7 +9,7 @@ function Contact() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              src={phone}
               alt=""
             />
           </div>
@@ -20,11 +21,11 @@ function Contact() {
             <p>
               My phone number is (913)-209-5834!
             </p>
-            <p>
-              My Github! https://github.com/DerekRin
+            <p> <a href={"https://github.com/DerekRin"}>
+              My Github! </a>
             </p>
-            <p>
-              My Linkdin! https://www.linkedin.com/in/derek-rincones-90b2a5228/
+            <p> <a href={"https://www.linkedin.com/in/derek-rincones-90b2a5228/"}>
+              My Linkdin!</a> 
             </p>
           </div>
         </div>

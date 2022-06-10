@@ -11,7 +11,7 @@ function App() {
       <BrowserRouter>
         <Navigation></Navigation>
         <Routes>
-          <Route path="/" element={<Home />} index />
+          <Route path="/new-react" element={<Home />} index />
           <Route path="/contact" element={<Contact />} />
           <Route path="/about" element={<About />} />
           <Route path="/blog" element={<Blog />} />
